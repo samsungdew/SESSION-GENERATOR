@@ -69,7 +69,7 @@ ______________________________________
 ║❒ *Ytube:* _youtube.com/@ManulOfficialTech_
 ║❒ *Owner:* _https://wa.me/94742274855_
 ║❒ *Repo:* _https://github.com/manulofficial7/Manu-MD-V6_
-║❒ *WaGroup:* _https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN_
+║❒ *WaGroup:* _https://chat.whatsapp.com/DHqxIdf5PRQ6rE1lT8M0ww_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R_
 ║❒ *Plugins:* _https://github.com/manulofficial7/MANU-MD-PLUGINS_
 ╚════════════════════════╝
