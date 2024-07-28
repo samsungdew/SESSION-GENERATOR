@@ -22,9 +22,9 @@ const MESSAGE = process.env.MESSAGE ||  `
 └────────────⭓
 ┌───⭓
 ❒  • Chat with owner •
-❒ *GitHub:* __https://github.com/WASI-MD_
-❒ *Author:* _wa.me/923192173398_
-❒ *YT:* _https://youtube.com/@wasitech10_
+❒ *GitHub:* __https://github.com/manulofficial7_
+❒ *Author:* _wa.me/94742274855_
+❒ *YT:* _https://youtube.com/@,ManulOfficialTech_
 └────────────⭓
 `
 
